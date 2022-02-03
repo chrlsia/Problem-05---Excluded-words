@@ -3,7 +3,7 @@ package main
 /* Assume we have 
 sl1:=[]string{"This", "is", "a", "good", "message"}
 sl2 := []string{"good", "is"}
-We want to exlude every word from sl2 which is appeared in sl1
+We want to exlude every word of sl2 which is appeared in sl1
 So the result would be: [This a message]
 */
 
